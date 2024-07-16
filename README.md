@@ -1,1 +1,1 @@
-# Gym-Website
+This gym website is designed to provide a comprehensive online presence for a fitness center, offering a range of features to engage members and attract new visitors. Developed using modern web technologies, the website focuses on promoting fitness programs, facilities, and community engagement.
